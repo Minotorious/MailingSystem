@@ -1,0 +1,8 @@
+name: MailingSystem
+main: MailingSystem.MailingSystem
+version: 1.2.0
+author: Minotorious
+team:
+description: "Mailing System plugin"
+license:
+website:
